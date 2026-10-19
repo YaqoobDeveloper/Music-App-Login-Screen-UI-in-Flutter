@@ -12,6 +12,13 @@ https://yaqoobdeveloper.github.io/Music-App-Login-Screen-UI-in-Flutter/
 💻 **GitHub Repository:**  
 https://github.com/YaqoobDeveloper/Music-App-Login-Screen-UI-in-Flutter
 
+▶️ **Video Demo:**  
+https://youtube.com/shorts/hrTsqFarZU8?feature=share
+
+## 📸 Preview
+
+<img width="857" height="900" alt="Image" src="https://github.com/user-attachments/assets/8d12da9b-92d7-4433-82de-92e3f50f4fde" />
+
 ## ✨ Features
 
 - 🎧 Lime theme with a faint tiled headphone pattern
